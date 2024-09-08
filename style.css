@@ -171,4 +171,16 @@ a:focus {
     margin: 0;
     line-height: 25px;
   }
+
+  /* Contact Section */
+.fa-brands {
+    font-size: 100px;
+    margin-right: 50px;
+    cursor: pointer;
+    color: var(--primary-color);
+  }
+  
+  .fa-brands:hover {
+    color: var(--on-background);
+  }
   
